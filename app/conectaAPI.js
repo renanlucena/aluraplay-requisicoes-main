@@ -6,6 +6,6 @@ async function listaVideos(){
 }
 
 export const conectaAPI = { 
-listaVideos
+    listaVideos
 }
 
